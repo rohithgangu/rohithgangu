@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me -
 
-<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithgangu)](https://github.com/anuraghazra/github-readme-stats)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohithgangu" />
